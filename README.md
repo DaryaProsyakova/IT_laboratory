@@ -94,8 +94,8 @@
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
-1. [Отчет](CPT/IT_LR3_Prosyakova_IDM-22-02.docx)
-2. [Сценарий Cisco Packet Tracer](CPT/IT_LR3_Prosyakova_IDM-22-02.pka)
+1. [Отчет](https://github.com/DaryaProsyakova/IT_laboratory/blob/main/CPT/IT_LR3_Prosyakova_IDM-22-02.docx)
+2. [Сценарий Cisco Packet Tracer](https://github.com/DaryaProsyakova/IT_laboratory/blob/main/CPT/IT_LR3_Prosyakova_IDM-22-02.pka)
 
 ## ✅ Экзаменационные билет №22
 
