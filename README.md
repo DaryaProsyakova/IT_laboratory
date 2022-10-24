@@ -9,7 +9,7 @@
 4. Размещение кода исходной страницы в репозитории.
 5. Размещение странички на хостинге.
 
-Веб-страничка с описанием лабораторных работ доступна по ссылке: [Web-Page](https://aggink.github.io/LaboratoryWorks_IT/)
+Веб-страничка с описанием лабораторных работ доступна по ссылке: [Web-Page](https://daryaprosyakova.github.io/IT_laboratory/)
 
 ## ✅ Лабораторная работа № 2
 
@@ -88,12 +88,14 @@
    + Веб-сервис для хостинга IT-проектов и их совместной разработки GitHub.
 
 ### Работа над проектом ведется в команде.
-1. Репозиторий проекта доступен по ссылке: [IT_Project](https://github.com/DaryaProsyakova/IT_project)
-2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/DaryaProsyakova/IT_project)
+1. Репозиторий проекта доступен по ссылке: [IT_Project]( https://github.com/tormaks/leonardo-landing-page)
+2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://tormaks.github.io/leonardo-landing-page/)
+3. Роль в проекте: Управление проектом УП
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
-
+1. [Отчет](CPT/IT_LR3_Prosyakova_IDM-22-02.docx)
+2. [Сценарий Cisco Packet Tracer](CPT/IT_LR3_Prosyakova_IDM-22-02.pka)
 
 ## ✅ Экзаменационные билет №22
 
