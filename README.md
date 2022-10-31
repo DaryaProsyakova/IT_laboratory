@@ -96,7 +96,7 @@
 1. [Отчет](https://github.com/DaryaProsyakova/IT_laboratory/raw/main/CPT/IT_LR3_Prosyakova_IDM-22-02.docx)
 2. [Сценарий Cisco Packet Tracer](https://github.com/DaryaProsyakova/IT_laboratory/raw/main/CPT/IT_LR3_Prosyakova_IDM-22-02.pka)
 
-## ✅ Экзаменационные билет №22
+## ✅ Экзаменационный билет №22
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №22](https://github.com/stankin/inet-2022/wiki/exam22)
