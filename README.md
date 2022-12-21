@@ -90,7 +90,7 @@
 1. Репозиторий проекта доступен по ссылке: [IT_Project]( https://github.com/tormaks/leonardo-landing-page)
 2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://tormaks.github.io/leonardo-landing-page/)
 3. Роль в проекте: Управление проектом УП
-
+✅ Принимаем участие в проекте
 ### Отчет о выполненной роли в проекте
 РП Управление проектами - Координатор (Председатель, Руководитель, Coordinator) - Project manager
 
